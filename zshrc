@@ -66,6 +66,4 @@ export LC_ALL=en_US.UTF-8
 
 export BUNDLER_EDITOR=code
 export EDITOR=code
-export NVM_DIR="$HOME/.nvm" 
-. "/opt/homebrew/opt/nvm/nvm.sh"
-
+export NVM_DIR="$HOME/.nvm"
